@@ -1,34 +1,28 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Introduction
+H&C Inc is a new call center that recently opened in Austin, Texas. I was hired as a Tableau Consultant to analyze their employee KPIs. The KPIs allow stakeholders to monitor progress, identify trends and create an explansion plan for 2024.
 
+Business Questions
+How many calles were resolved?
+How many calls came through a week?
+What is the satisfaction ranking for the calls?
+About the Data
+8 employees were randomly selected from various departments and their performance was analyzed as per call resolution, customer satisfaction and Speed of answer. About 5000 calls were analyzed on these parameters.
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Tools Used
+Excel (Data Cleaning)
+Tableau (Visualization)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Insights:
+Call volume was always highest on Monday during the week.
+Explored daily inbound calls and the average call length in minutes.
+Number of resolved calls was higher for 2 employees as compared to their peers.
+Bar chart featuring number of calls was very useful to narrow high achievers.
+Resolution rate was more than average for most employees.
+Speed of answer was above 60 %
+Satisfaction rating was measured on the scale of 5.
+Recommendations
+Employee start times should be staggered during the day to provide maximum coverage.
+Offer in person, hybrid and remote options to the employees to retain employees
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Data Source:
+This was a guided project as part of the Data Analyst Bootcamp.
